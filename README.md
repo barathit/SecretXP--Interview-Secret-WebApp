@@ -30,4 +30,11 @@ This project uses MongoDB as the database to store user-submitted interview expe
 Collection: posts
 Each interview experience is stored as a document in the posts collection.
 
+💡 Privacy Note:
+
+No personal or identifiable user data is stored.
+
+All posts remain completely anonymous to ensure user privacy.
+
+
 ![Screenshot 2025-03-24 201831](https://github.com/user-attachments/assets/1d11b949-6dcb-4c62-b0ba-12c09ce6fd36)
