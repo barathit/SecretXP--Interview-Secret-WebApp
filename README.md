@@ -3,7 +3,7 @@ SecretXP ⚡ - A Full Stack Web App to Share Secrets Anonymously
 This full-stack web application is built using Node.js, Express.js, EJS, MongoDB, Bootstrap, and Bcrypt!
 
 🔹 About the App:
-SecretXP is a platform where college students can anonymously share their funny, memorable, and embarrassing moments without revealing their identity. It's a space for open expression, nostalgia, and fun!
+SecretXP is a platform where individuals can anonymously share their interview experiences, challenges, and insights without revealing their identity. It serves as a valuable resource for job seekers, helping them prepare for interviews by learning from real experiences shared by others. 🚀✨
 
 🔹 Tech Stack:
 
