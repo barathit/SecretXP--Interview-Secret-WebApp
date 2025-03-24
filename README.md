@@ -21,3 +21,13 @@ This full-stack project helped us strengthen our backend development skills, imp
 ![Screenshot 2025-03-24 202131](https://github.com/user-attachments/assets/cf624325-a513-4623-b22c-037da3bb41ba)
 ![Screenshot 2025-03-24 202146](https://github.com/user-attachments/assets/171e2f53-5c95-4a39-a987-8f8e91df6d18)
 
+
+
+
+📦 Database Schema (MongoDB)
+This project uses MongoDB as the database to store user-submitted interview experiences.
+
+Collection: posts
+Each interview experience is stored as a document in the posts collection.
+
+![Screenshot 2025-03-24 201831](https://github.com/user-attachments/assets/1d11b949-6dcb-4c62-b0ba-12c09ce6fd36)
